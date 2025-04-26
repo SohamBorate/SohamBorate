@@ -3,18 +3,18 @@ I'm an 18 year old programmer from India. I like Computers, Rockets, Physics, an
 Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com/profile/sohamboratee)
 
 ### Projects that I have made
-- Ripple `🔥`:
+- Ripple `🔥`
   - A simple raytracer built in C from scratch, and also has a CUDA version.
   - Github: [https://github.com/SohamBorate/Ripple](https://github.com/SohamBorate/Ripple)
   - Tech stack: C, Nvidia CUDA
 
-- Kipify `🔥`:
+- Kipify `🔥`
   - A Spotify playlist creation app that helps you find new music, similar to what you already listen to.
   - Github: [https://github.com/kipifyapp/webapp](https://github.com/kipifyapp/webapp)
   - Webapp: [https://kipify.vercel.app/](https://kipify.vercel.app/)
   - Tech stack: HTML, CSS, JavaScript, Tailwind CSS, Vercel
  
-- Dark Tunes `🔥`:
+- Dark Tunes `🔥`
   - A computer program that basically pirates music from Spotify.
   - Github: CLASSIFIED
   - Webapp: CLASSIFIED
