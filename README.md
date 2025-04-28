@@ -6,16 +6,19 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 - Ripple `🔥`
   - A simple raytracer built in C from scratch, and also has a CUDA version.
   - Github: [https://github.com/SohamBorate/Ripple](https://github.com/SohamBorate/Ripple)
+  - 2025 - Present, 2023
   - Tech stack: C, Nvidia CUDA
 
 - Kipify `🔥`
   - A Spotify playlist creation app that helps you find new music, similar to what you already listen to.
+  - 2025, 2023
   - Github: [https://github.com/kipifyapp/webapp](https://github.com/kipifyapp/webapp)
   - Webapp: [https://kipify.vercel.app/](https://kipify.vercel.app/)
   - Tech stack: HTML, CSS, JavaScript, Tailwind CSS, Vercel
  
 - Dark Tunes `🔥`
   - A computer program that basically pirates music from Spotify.
+  - 2024 - 2025
   - Github: CLASSIFIED
   - Webapp: CLASSIFIED
   - Tech stack: CLASSIFIED
@@ -73,6 +76,3 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 - Github Alt: [https://github.com/Giant427](https://github.com/Giant427)
 - YouTube: [https://www.youtube.com/@GiantDefender427](https://www.youtube.com/@GiantDefender427)
 - Roblox: [https://www.roblox.com/users/1249929737/profile](https://www.roblox.com/users/1249929737/profile)
-
-[![SohamBorate's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamBorate)](https://github.com/anuraghazra/github-readme-stats)
-[![Giant427's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giant427)](https://github.com/anuraghazra/github-readme-stats)
