@@ -23,7 +23,7 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
   - Webapp: CLASSIFIED
   - Tech stack: CLASSIFIED
 
- - Youtify
+- Youtify
   - A NodeJS program that downloads music from YouTube and then applies Spotify metadata to it.
   - Sort of like downloading music with Spotify Premium, but the songs can be a little inaccurate at times.
   - 2024
