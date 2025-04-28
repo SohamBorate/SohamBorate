@@ -23,6 +23,13 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
   - Webapp: CLASSIFIED
   - Tech stack: CLASSIFIED
 
+ - Youtify
+  - A NodeJS program that downloads music from YouTube and then applies Spotify metadata to it.
+  - Sort of like downloading music with Spotify Premium, but the songs can be a little inaccurate at times.
+  - 2024
+  - Github: [https://github.com/SohamBorate/youtify](https://github.com/SohamBorate/youtify)
+  - Tech stack: NodeJS, fluent-ffmpeg (npm), ytdl-core (npm), youtube-sr (npm), Spotify Web API
+
 - Accelerator Framework
   - My first person shooter framework on Roblox. Couldn't finish due to school.
   - 2021 - 2023
