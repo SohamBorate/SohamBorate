@@ -3,6 +3,12 @@ I'm an 18 year old programmer from India. I like Computers, Rockets, Physics, an
 Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com/profile/sohamboratee)
 
 ### Projects that I have made
+- Rjac 2 (Rotating Joints According to Camera)
+  - Pronounced as `r-jack`, is a module which simplifies the rotation of the joint of the character, as the player looks around.
+  - Good quality gameplay plus flexible design. Supports R6 + R15.
+  - 2025
+  - Github: [https://github.com/SohamBorate/Rjac-2](https://github.com/SohamBorate/Rjac-2)
+
 - Ripple `🔥`
   - A simple raytracer built in C from scratch, and also has a CUDA version.
   - Github: [https://github.com/SohamBorate/Ripple](https://github.com/SohamBorate/Ripple)
@@ -22,12 +28,6 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
   - Github: CLASSIFIED
   - Webapp: CLASSIFIED
   - Tech stack: CLASSIFIED
-
-- Rjac 2 (Rotating Joints According to Camera)
-  - Pronounced as `r-jack`, is a module which simplifies the rotation of the joint of the character, as the player looks around.
-  - Good quality gameplay plus flexible design. Supports R6 + R15.
-  - 2025
-  - Github: [https://github.com/SohamBorate/Rjac-2](https://github.com/SohamBorate/Rjac-2)
 
 - Youtify
   - A NodeJS program that downloads music from YouTube and then applies Spotify metadata to it.
