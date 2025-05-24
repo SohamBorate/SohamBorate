@@ -23,6 +23,12 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
   - Webapp: CLASSIFIED
   - Tech stack: CLASSIFIED
 
+- Rjac 2 (Rotating Joints According to Camera)
+  - Pronounced as `r-jack`, is a module which simplifies the rotation of the joint of the character, as the player looks around.
+  - Good quality gameplay plus flexible design. Supports R6 + R15.
+  - 2025
+  - Github: [https://github.com/SohamBorate/Rjac-2](https://github.com/SohamBorate/Rjac-2)
+
 - Youtify
   - A NodeJS program that downloads music from YouTube and then applies Spotify metadata to it.
   - Sort of like downloading music with Spotify Premium, but the songs can be a little inaccurate at times.
