@@ -63,7 +63,7 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 
 ### Programming Languages that I know
 - Lua
-- HTML, CSS
+- HTML, CSS (didn't know where else to put it)
 - JavaScript
 - C
 - Python
