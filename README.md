@@ -83,7 +83,7 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 - Plus a whole lot of Udemy and YouTube.
 
 ### Contacts and Profiles
-- Discord: `sohamborate`, `giant427` (falsely suspended, in process of getting it back)
+- Discord: `giant427`
 - Roblox Developer Forum: [https://devforum.roblox.com/u/giantdefender427/summary](https://devforum.roblox.com/u/giantdefender427/summary)
 - Github Main: [https://github.com/SohamBorate](https://github.com/SohamBorate)
 - Github Alt: [https://github.com/Giant427](https://github.com/Giant427)
