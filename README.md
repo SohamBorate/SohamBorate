@@ -74,6 +74,7 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 - Express
 - Vercel
 - Nvidia CUDA
+- Onshape (CAD)
 
 ### Education
 - Manipal Institute of Technology, Manipal
