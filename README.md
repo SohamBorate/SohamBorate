@@ -58,16 +58,16 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
     - Github: [https://github.com/Giant427/Rjac](https://github.com/Giant427/Rjac)
 
 ### Technologies that I know
-- Vercel
+- Arduino
 - Nvidia CUDA
 - Onshape (CAD)
+- Vercel
 - Tailwind CSS
 - Express
 - Roblox
 
 ### Skills that I have
 - CAD
-- Arduino
 - Web Development
 - Computer Programs
 - Competitive Programming (still very newbie)
