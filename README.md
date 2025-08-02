@@ -3,11 +3,6 @@ I'm an 18 year old programmer from India. I like Computers, Rockets, Physics, an
 Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com/profile/sohamboratee)
 
 ### Projects that I have made
-- Rjac 2 (Rotating Joints According to Camera) `Roblox`
-  - Pronounced as `r-jack`, is a module which simplifies the rotation of the joint of the character, as the player looks around.
-  - Good quality gameplay plus flexible design. Supports R6 + R15.
-  - 2025
-  - Github: [https://github.com/SohamBorate/Rjac-2](https://github.com/SohamBorate/Rjac-2)
 
 - Ripple `🔥`
   - A simple raytracer built in C from scratch, and also has a CUDA version.
@@ -36,45 +31,54 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
   - Github: [https://github.com/SohamBorate/youtify](https://github.com/SohamBorate/youtify)
   - Tech stack: NodeJS, fluent-ffmpeg (npm), ytdl-core (npm), youtube-sr (npm), Spotify Web API
 
-- Accelerator Framework `Roblox`
-  - My first person shooter framework on Roblox. Couldn't finish due to school.
-  - 2021 - 2023
-  - Github: [https://github.com/Giant427/Accelerator-Framework-2](https://github.com/Giant427/Accelerator-Framework-2)
-  - Roblox Page: [https://www.roblox.com/games/8095325001/Accelerator-Framework-WIP](https://www.roblox.com/games/8095325001/Accelerator-Framework-WIP)
- 
-- Movement Handler `Roblox`
-  - A module to make movement abilities like crouch, prone, sprint, slide. Incredibly low quality gameplay.
-  - Gonna make a V2 one day.
-  - 2021 - 2022
-  - Github: [https://github.com/Giant427/MovementHandler](https://github.com/Giant427/MovementHandler)
- 
-- Rjac (Rotating Joints According to Camera) `Roblox`
-  - Pronounced as `r-jack`, is a module which simplifies the rotation of the joint of the character, as the player looks around.
-  - Good quality gameplay but design could've been better and code could've been nicer.
-  - Gonna make a V2 one day.
-  - 2021 - 2022
-  - Github: [https://github.com/Giant427/Rjac](https://github.com/Giant427/Rjac)
+- Roblox Game Development
+  - Rjac 2 (Rotating Joints According to Camera) `Roblox`
+    - Pronounced as `r-jack`, is a module which simplifies the rotation of the joint of the character, as the player looks around.
+    - Good quality gameplay plus flexible design. Supports R6 + R15.
+    - 2025
+    - Github: [https://github.com/SohamBorate/Rjac-2](https://github.com/SohamBorate/Rjac-2)
 
-### Skills that I have
-- Roblox
-- Web Development
-- Computer Programs
-- Competitive Programming (still very newbie)
-
-### Programming Languages that I know
-- Lua
-- HTML, CSS (didn't know where else to put it)
-- JavaScript
-- C
-- Python
+  - Accelerator Framework `Roblox`
+    - My first person shooter framework on Roblox. Couldn't finish due to school.
+    - 2021 - 2023
+    - Github: [https://github.com/Giant427/Accelerator-Framework-2](https://github.com/Giant427/Accelerator-Framework-2)
+    - Roblox Page: [https://www.roblox.com/games/8095325001/Accelerator-Framework-WIP](https://www.roblox.com/games/8095325001/Accelerator-Framework-WIP)
+ 
+  - Movement Handler `Roblox`
+    - A module to make movement abilities like crouch, prone, sprint, slide. Incredibly low quality gameplay.
+    - Gonna make a V2 one day.
+    - 2021 - 2022
+    - Github: [https://github.com/Giant427/MovementHandler](https://github.com/Giant427/MovementHandler)
+ 
+  - Rjac (Rotating Joints According to Camera) `Roblox`
+    - Pronounced as `r-jack`, is a module which simplifies the rotation of the joint of the character, as the player looks around.
+    - Good quality gameplay but design could've been better and code could've been nicer.
+    - Gonna make a V2 one day.
+    - 2021 - 2022
+    - Github: [https://github.com/Giant427/Rjac](https://github.com/Giant427/Rjac)
 
 ### Technologies that I know
-- Roblox
-- Tailwind CSS
-- Express
 - Vercel
 - Nvidia CUDA
 - Onshape (CAD)
+- Tailwind CSS
+- Express
+- Roblox
+
+### Skills that I have
+- CAD
+- Arduino
+- Web Development
+- Computer Programs
+- Competitive Programming (still very newbie)
+- Roblox Game Development
+
+### Programming Languages that I know
+- Lua
+- JavaScript
+- C
+- Python
+- HTML, CSS (didn't know where else to put it)
 
 ### Education
 - Manipal Institute of Technology, Manipal
@@ -87,8 +91,7 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 
 ### Contacts and Profiles
 - Discord: `giant427`
-- Roblox Developer Forum: [https://devforum.roblox.com/u/giantdefender427/summary](https://devforum.roblox.com/u/giantdefender427/summary)
 - Github Main: [https://github.com/SohamBorate](https://github.com/SohamBorate)
 - Github Alt: [https://github.com/Giant427](https://github.com/Giant427)
 - YouTube: [https://www.youtube.com/@GiantDefender427](https://www.youtube.com/@GiantDefender427)
-- Roblox: [https://www.roblox.com/users/1249929737/profile](https://www.roblox.com/users/1249929737/profile)
+- Roblox Developer Forum: [https://devforum.roblox.com/u/giantdefender427/summary](https://devforum.roblox.com/u/giantdefender427/summary)
