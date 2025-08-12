@@ -4,6 +4,21 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 
 ### Projects that I have made
 
+- LIDAR Scanner (Arduino)
+  - Using two servos and a micro lidar module (2m range) to scan a real life scene and then mark the points in a virtual scene.
+  - In Progress
+
+- 8 Cylinder Engine (Onshape)
+  - Had the CAD model of a single cylinder engine that I got from the Udemy course I was learning through.
+  - Modified those parts and joined them to turn it into an eight cylinder engine.
+  - Youtube: [https://youtu.be/rQ2ez1h-QOs?si=7f8WAaWBXoO13Uhe](https://youtu.be/rQ2ez1h-QOs?si=7f8WAaWBXoO13Uhe)
+  - 2025
+
+- Gyroscope (Arduino)
+  - Used an Arduiono Uno R3, with an MPU6500 sensor, to track rotations, and then display a 3D model using Python
+  - Youtube: [https://youtu.be/Cp0FNvV3q8o?si=Cnpr3U8U07xo_Tki](https://youtu.be/Cp0FNvV3q8o?si=Cnpr3U8U07xo_Tki)
+  - 2025
+
 - Ripple `🔥`
   - A simple raytracer built in C from scratch, and also has a CUDA version.
   - Github: [https://github.com/SohamBorate/Ripple](https://github.com/SohamBorate/Ripple)
