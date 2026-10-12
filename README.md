@@ -15,8 +15,9 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 - STM32 - Bare-metal CMSIS, HAL
 - KiCad, Vivado
 - LtSpice, Matlab
-- C, C++, Python, Lua, JavaScript, HTML+CSS
+- Ansys Maxwell, RMxprt
 - Embedded C, Assembly, Verilog HDL
+- C, C++, Python, Lua, JavaScript, HTML+CSS
 - Onshape (CAD)
 
 ### Education
