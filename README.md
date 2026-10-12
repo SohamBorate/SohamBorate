@@ -4,7 +4,6 @@ Codeforces: [https://codeforces.com/profile/sohamboratee](https://codeforces.com
 
 ### My Skills
 - Embedded Systems
-- Circuit Design
 - PCB Design
 - CAD
 - Computer Programming
